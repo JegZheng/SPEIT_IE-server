@@ -6,8 +6,11 @@ You are free to contact us if you have any problem.
 
 ## Server IP adress
 202.120.56.230
+
 192.168.5.190
+
 192.168.5.100
+
 Thanks to Lucas, we can connect servers from public network.
 
 ## How to start
@@ -34,6 +37,17 @@ The environment meets the most needs of our students. The containing is as follo
   You may establish your own python environment with command "virtualenv".
   To establish a python environment with specific version, you may apply "miniconda"
   https://conda.io/miniconda.html for those who have specific needs in python version.
+
+To meet the general requirements of students, the server contains the following python modules:
+    ..* numpy
+    ..* scipy
+    ..* pandas
+    ..* matplotlib
+    ..* tsne
+    ..* scikit
+
+
+
 
 ### Data mining
   hadoop, spark(installed with docker)
