@@ -39,12 +39,12 @@ The environment meets the most needs of our students. The containing is as follo
   https://conda.io/miniconda.html for those who have specific needs in python version.
 
 To meet the general requirements of students, the server contains the following python modules:
-    * numpy
-    * scipy
-    * pandas
-    * matplotlib
-    * tsne
-    * scikit
+* numpy
+* scipy
+* pandas
+* matplotlib
+* tsne
+* scikit
 
 
 
